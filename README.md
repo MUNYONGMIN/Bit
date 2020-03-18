@@ -32,4 +32,4 @@
 #### 7. 기타 전반적인 부분 수정 및 관리
 #### 8. .war 파일 AWS EC2에 배포(openjdk 1.8 && apache tomcat 8.5 && AWS RDS(Oracle)) 
 ---
-# `[사이트 접속]`(http://www.munyongmin.gq/bit_project) - `오전 9시 open 오후 6시 close`
+# [사이트 접속](http://www.munyongmin.gq/bit_project) - `오전 9시 open 오후 6시 close`
